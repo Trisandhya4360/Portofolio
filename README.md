@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website!  
 This site is built to showcase my skills, projects, resume, and contact information.  
-It is live at: [https://trisandhya4360.github.io/]((https://trisandhya4360.github.io/Portofolio/))
+It is live at: [https://trisandhya4360.github.io/](https://trisandhya4360.github.io/Portofolio/)
 
 ---
 
